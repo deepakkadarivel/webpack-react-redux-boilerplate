@@ -1,7 +1,7 @@
 {
-  "name": "gitlogs",
+  "name": "webpack-react-redux-boilerplate",
   "version": "1.0.0",
-  "description": "React Web App [Display Github logs using Github Api, React, React Router, Jest, Webpack, ES6, SuperAgent]",
+  "description": "Bolierplate for React, Redux, React-Router4 using Webpack2 and Babel.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deepakkadarivel/gitlogs.git"
+    "url": "git+https://github.com/deepakkadarivel/webpack-react-redux-boilerplate.git"
   },
   "keywords": [],
   "author": "",
@@ -29,9 +29,9 @@
     "plugins": ["react-hot-loader/babel"]
   },
   "bugs": {
-    "url": "https://github.com/deepakkadarivel/gitlogs/issues"
+    "url": "https://github.com/deepakkadarivel/webpack-react-redux-boilerplate/issues"
   },
-  "homepage": "https://github.com/deepakkadarivel/gitlogs#readme",
+  "homepage": "https://github.com/deepakkadarivel/webpack-react-redux-boilerplate#readme",
   "devDependencies": {
     "autoprefixer": "^6.5.3",
     "babel-core": "^6.7.2",
