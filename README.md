@@ -1,2 +1,2 @@
-# gitlogs
-React Web App [Display Github logs using Github Api, React, React Router, Jest, Webpack, ES6, SuperAgent]
+# webpack-react-redux-boilerplate
+Boilerplate setup for React, Redux & React-Router4 using Webpack2 and Babel
